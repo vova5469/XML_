@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Film>
+	<favorite>Avatar_2</favorite>
+</Film>
+	<Series>
+		<favorite>GameOfThrones</favorite>
+	</Series>
+		<Food>
+			<delicious>dumplings</delicious>
+		</Food>
+<Season>
+	<favorite>summer</favorite>
+</Season>
+<Country>
+	<favorite>Asia</favorite>
+</Country>
